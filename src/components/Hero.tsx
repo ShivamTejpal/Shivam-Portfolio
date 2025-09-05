@@ -131,18 +131,7 @@ const Hero = () => {
             >
               <a 
                 href="#contact" 
-                className="flex items-center justify-center group w-full sm:w-auto text-center" 
-                style={{
-                  backgroundColor: '#FE5C02',
-                  borderRadius: '1440px',
-                  boxSizing: 'border-box',
-                  color: '#FFFFFF',
-                  cursor: 'pointer',
-                  fontSize: '14px',
-                  lineHeight: '20px',
-                  padding: '16px 24px',
-                  border: '1px solid white',
-                }}
+                className="flex items-center justify-center group w-full sm:w-auto text-center bg-foreground text-background border border-foreground hover:bg-green-600 hover:border-green-600 transition-colors rounded-full px-6 py-4 text-sm"
               >
                 Get In Touch
                 <ArrowRight className="ml-2 w-4 h-4 transition-transform group-hover:translate-x-1" />
@@ -150,15 +139,7 @@ const Hero = () => {
               <a 
                 href="/lovable-uploads/a5b860a3-4ba7-49c7-b191-a3b639dffc29.png" 
                 target="_blank"
-                className="flex items-center justify-center group w-full sm:w-auto text-center border-2 border-pulse-500 text-pulse-500 hover:bg-pulse-500 hover:text-white transition-colors" 
-                style={{
-                  borderRadius: '1440px',
-                  boxSizing: 'border-box',
-                  cursor: 'pointer',
-                  fontSize: '14px',
-                  lineHeight: '20px',
-                  padding: '16px 24px',
-                }}
+                className="flex items-center justify-center group w-full sm:w-auto text-center bg-background text-foreground border border-foreground hover:bg-green-600 hover:text-white hover:border-green-600 transition-colors rounded-full px-6 py-4 text-sm"
               >
                 View Resume
                 <ArrowRight className="ml-2 w-4 h-4 transition-transform group-hover:translate-x-1" />
