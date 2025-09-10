@@ -97,7 +97,7 @@ const Contact = () => {
               <h4 className="font-semibold text-gray-900 mb-4">Follow Me</h4>
               <div className="flex gap-4">
                 <a 
-                  href="https://github.com/shivamtejpal86" 
+                  href="https://github.com/ShivamTejpal" 
                   target="_blank" 
                   rel="noopener noreferrer"
                   className="w-12 h-12 bg-gray-900 text-white rounded-lg flex items-center justify-center hover:bg-gray-800 transition-colors"
