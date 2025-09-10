@@ -137,7 +137,7 @@ const Hero = () => {
                 <ArrowRight className="ml-2 w-4 h-4 transition-transform group-hover:translate-x-1" />
               </a>
               <a 
-                href="/lovable-uploads/a5b860a3-4ba7-49c7-b191-a3b639dffc29.png" 
+                href="https://drive.google.com/file/d/1tjq7S5M3TPFrSsX_jXDNPxle6ZzZ2Mt1/view?usp=sharing" 
                 target="_blank"
                 className="flex items-center justify-center group w-full sm:w-auto text-center bg-background text-foreground border border-foreground hover:bg-green-600 hover:text-white hover:border-green-600 transition-colors rounded-full px-6 py-4 text-sm"
               >
